@@ -260,7 +260,7 @@ Variables include:
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](tableau/dashboard.png)
+![Tableau Dashboard](Tableau/Dashboard%201.png)
 
 ---
 
