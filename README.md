@@ -258,9 +258,9 @@ Variables include:
 
 # Screenshots
 
-| Histogram Analysis | Correlation Heatmap | Tableau Dashboard |
-|:---:|:---:|:---:|
-| ![Histogram](histogram.png) | ![Heatmap](heatmap.png) | ![Dashboard](dashboard.png) |
+### Tableau Dashboard
+
+![Tableau Dashboard](tableau/dashboard.png)
 
 ---
 
